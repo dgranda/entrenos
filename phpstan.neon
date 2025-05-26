@@ -1,0 +1,5 @@
+parameters:
+    paths:
+        - classes
+        - public
+    level: 5 # Start with a moderate level, can be adjusted later
